@@ -6,7 +6,12 @@ $ brew install --cask iterm2
 $ brew install zsh
 $ brew install git
 $ brew install lighttpd
-
+brew install selfcontrol
+brew install --cask sublime-text
+brew install mysql
+brew install bat
+ brew install curl
+ brew install --cask postman
 
 
 
