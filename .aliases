@@ -1,0 +1,33 @@
+# Git aliases
+alias gs='git status'
+alias ga='git add'
+alias gac='git commit -am'
+alias gc='git commit'
+alias gcm='git commit -m'
+alias gp='git push'
+alias gl='git log --oneline'
+alias gd='git diff'
+alias gco='git checkout'
+alias gb='git branch'
+alias gba='git branch -a'
+alias gm='git merge'
+alias gr='git remote'
+alias grv='git remote -v'
+alias gcl='git clone'
+alias gcf='git config'
+
+# Navigation aliases
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias home='cd ~'
+
+# Miscellaneous aliases
+alias ll='ls -alF'
+alias c='clear'
+alias h='history'
+alias top='htop'
+alias hg='history | grep'
+alias sz="source ~/.zshrc"
+alias grep='grep --color=auto'
+alias cat='bat'
